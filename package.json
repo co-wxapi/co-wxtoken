@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "debug": "^2.2.0"
+    "co-wxsign": "^0.1.0",
+    "co-wxbase": "^0.1.0"
   }
 }
