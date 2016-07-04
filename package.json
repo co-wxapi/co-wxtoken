@@ -1,6 +1,6 @@
 {
   "name": "co-wxtoken",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "wechat token utilities",
   "main": "index.js",
   "scripts": {
